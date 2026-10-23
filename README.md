@@ -18,13 +18,6 @@ This project is a **personal learning initiative** focused on quantitative analy
 This **version 1** is focused specifically on **JPM** and **SPY**.  
 It provides a full pipeline of analysis comparing these two assets across multiple dimensions.
 
-## What's Next
-
-The upcoming **version 2** will be fully **dynamic and customizable**:
-- Users will be able to **select any stock and benchmark tickers**
-- The entire analysis will run **automatically** based on those inputs
-- The framework will be modular and reusable for broader asset comparisons
-
 ## Technologies
 
 - Python 3.x
@@ -33,6 +26,6 @@ The upcoming **version 2** will be fully **dynamic and customizable**:
 ## Author
 
 **Nicolas Poncin**  
-- 🌐 [Website](nicolasponcin.com)  
+- 💼 [Linkedin]([nicolasponcin.com](https://www.linkedin.com/in/nicolas-poncin-63918b201/?isSelfProfile=true))  
 - 📄 [CV](https://whispering-cricket-3c5.notion.site/Nicolas-Poncin-CV-1979bd8bfc318006a04ef40ed5bde371?source=copy_link)
 - 🔗 [Socials](https://whispering-cricket-3c5.notion.site/Link-in-Bio-1979bd8bfc31804d8d2fd633cb1a891c?source=copy_link)
