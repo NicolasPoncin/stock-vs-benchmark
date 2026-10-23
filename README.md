@@ -23,7 +23,7 @@ It provides a full pipeline of analysis comparing these two assets across multip
 - Python 3.x
 - Libraries: `numpy`, `pandas`, `matplotlib`, `seaborn`, `statsmodels`, `scipy`, `yfinance`
 
-## Author
+## About author
 
 **Nicolas Poncin**  
 - 💼 [Linkedin](https://www.linkedin.com/in/nicolas-poncin-63918b201/?isSelfProfile=true) 
